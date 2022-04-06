@@ -1,4 +1,4 @@
-﻿Country name,Regional indicator,Ladder score,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Latitude,Longitude
+﻿country,region,happiness,logged_ppp,social_spt,life_exp,choice,generous,corruption,lat,lon
 Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,34.159326,66.51551
 Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,40.647186,20.127352
 Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,27.89689,3.379277

@@ -1,18 +1,11 @@
-.axis path,
-.axis line {
+.countries {
+    fill: #FFF;
+    stroke: #10403B;
+    stroke-width: 1.5px;
+}
+
+.gratLines {
     fill: none;
-    stroke: black;
-    stroke-width: 1px;
-    shape-rendering: crispEdges;
-}
-
-.axis text {
-    font-family: sans-serif;
-    font-size: 0.9em;
-}
-
-.title {
-    font-family: sans-serif;
-    font-size: 1.5em;
-    font-weight: bold;
+    stroke: #BFBFBF;
+    stroke-width: .5px;
 }
