@@ -1,11 +1,18 @@
-.countries {
-    fill: #FFF;
-    stroke: #10403B;
-    stroke-width: 1.5px;
+.basemap {
+    fill: #D9D9D9;
+    stroke: #747A8C;
+    stroke-width: 1px;
 }
 
 .gratLines {
     fill: none;
     stroke: #BFBFBF;
     stroke-width: .5px;
+}
+
+.chart {
+    background-color: #fff;
+    border: medium solid #999;
+    float: right;
+    margin: 130px 10px 0 0px;
 }
